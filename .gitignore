@@ -1,1 +1,32 @@
-.ipynb_checkpoints
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.env/
+.venv/
+env/
+venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Data & Models
+*.h5
+*.hdf5
+*.ckpt
+*.pb
+*.tflite
+*.npz
+*.npy
+
+# Logs
+*.log
+logs/
+tensorboard/
+
+# OS files
+.DS_Store
+Thumbs.db
