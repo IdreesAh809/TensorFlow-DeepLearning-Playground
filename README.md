@@ -30,4 +30,6 @@ cd TensorFlow-DeepLearning-Playground
 pip install -r requirements.txt
 ```
 # Run Jupyter Notebook
+```
 jupyter notebook
+```
