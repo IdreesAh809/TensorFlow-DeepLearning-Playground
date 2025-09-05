@@ -1,4 +1,4 @@
-# TensorFlow Deep Learning Playground 🚀  
+# TensorFlow Deep Learning Playground 
 
 Step-by-step notebooks to learn **TensorFlow & Keras** from basics to CNNs.  
 
