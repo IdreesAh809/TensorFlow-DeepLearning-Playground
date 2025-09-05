@@ -22,7 +22,7 @@ Step-by-step notebooks to learn **TensorFlow & Keras** from basics to CNNs.
 
 ```
 # Clone repo
-git clone https://github.com/your-username/TensorFlow-DeepLearning-Playground.git
+https://github.com/IdreesAh809/TensorFlow-DeepLearning-Playground
 cd TensorFlow-DeepLearning-Playground
 
 # Install dependencies
